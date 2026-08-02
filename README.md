@@ -157,5 +157,3 @@ DBeaver
 ## Контакты
 
 - GitHub: [@yageadvert](https://github.com/yageadvert)
-- Email: your.email@example.com
-- LinkedIn: [ссылка]
