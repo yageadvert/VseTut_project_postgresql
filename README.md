@@ -30,6 +30,8 @@
 | `ds_ecom.order_reviews`         | Отзывы и рейтинги заказов  |
 | `ds_ecom.order_items`           | Товары в заказах           |
 
+<img width="902" height="640" alt="ER-diagram" src="https://github.com/user-attachments/assets/33438ea8-fc96-4114-893a-2e42db890d3a" />
+
 
 ## Витрина данных
 
